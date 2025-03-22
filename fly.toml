@@ -1,5 +1,5 @@
-app = "linkleaner"
-primary_region = "ams"
+app = "15cm-linkleaner"
+primary_region = "fra"
 kill_signal = "SIGINT"
 kill_timeout = "5s"
 
