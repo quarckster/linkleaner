@@ -4,4 +4,4 @@ kill_signal = "SIGINT"
 kill_timeout = "5s"
 
 [build]
-image = "ghcr.io/msfjarvis/linkleaner@sha256:d196793bfa27219a92a6dd810d6892c853a20ef0d01f73443544312e7dee3f2e"
+image = "ghcr.io/msfjarvis/linkleaner@sha256:0b034e0fee6e725e6ac3d00261136ba285bbbba35bb58f906e060cf34e2da33b"
